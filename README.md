@@ -60,6 +60,3 @@
   <img src="https://streak-stats.demolab.com/?user=101panda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/101PANDA" alt="Contribution graph" width="90%" />
-</p>
