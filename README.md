@@ -13,7 +13,6 @@
         <li>🎓 B.Tech Computer Science, Federal University of Technology Owerri (2025)</li>
         <li>💬 Ask me about <b>Python, C, Bash, React / Next.js and WordPress</b></li>
         <li>📫 <a href="mailto:1ogidifavour@gmail.com">1ogidifavour@gmail.com</a></li>
-        <li>👨‍💻 All my projects: <a href="https://github.com/101PANDA">github.com/101PANDA</a></li>
       </ul>
     </td>
     <td valign="middle" align="center" width="45%">
@@ -24,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/101panda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/favourogidi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://web.facebook.com/ofavour.panda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code_p_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
@@ -35,9 +33,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,c,bash,js,ts,html,css,react,nextjs,wordpress,git,github,figma,vscode,linux,mysql&perline=8" alt="Tech stack" />
 </p>
-
-<sub>Currently learning:</sub><br>
-<img src="https://skillicons.dev/icons?i=flutter,django" alt="Learning" />
 
 ### 💼 Experience highlights
 
@@ -50,27 +45,15 @@
 ### 📊 Languages I actually use
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img alt="Repos per language" src="./profile-summary-card-output/default/1-repos-per-language.svg" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img alt="Most committed language" src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/101PANDA/101PANDA/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="48%" />
+  <img src="https://raw.githubusercontent.com/101PANDA/101PANDA/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed language" width="48%" />
 </p>
 
 ### 📈 GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img alt="GitHub stats" src="./profile-summary-card-output/default/3-stats.svg" width="48%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img alt="Productive time" src="./profile-summary-card-output/default/4-productive-time.svg" width="48%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/101PANDA/101PANDA/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/101PANDA/101PANDA/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="48%" />
 </p>
 
 <p align="center">
@@ -78,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact" alt="WakaTime" />
+  <img src="https://ghchart.rshah.org/0e75b6/101PANDA" alt="Contribution graph" width="90%" />
 </p>
