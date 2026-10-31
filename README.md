@@ -1,38 +1,82 @@
 <h1 align="center">Hi 👋, I'm Favour Ogidi</h1>
-<h3 align="center">A systematic colored Text writer</h3>
-<img align="right" alt="Coding" width="" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<h3 align="center">Frontend Developer · Python Instructor · Computer Science Graduate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=101panda&label=Profile%20views&color=0e75b6&style=flat" alt="101panda" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=101panda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on [JSON to Docxs converter](https://github.com/101PANDA/nollydic-programs/tree/main/JTOD)
-- 👨‍💻 All of my projects are available at [https://github.com/101PANDA](https://github.com/101PANDA)
-- 📫 How to reach me **1ogidifavour@gmail.com**
+<table>
+  <tr>
+    <td valign="middle" width="55%">
+      <ul>
+        <li>🔭 Frontend Developer at <b>Tobams Group</b>, turning Figma designs into real web pages</li>
+        <li>🎓 B.Tech Computer Science, Federal University of Technology Owerri (2025)</li>
+        <li>💬 Ask me about <b>Python, C, Bash, React / Next.js and WordPress</b></li>
+        <li>📫 <a href="mailto:1ogidifavour@gmail.com">1ogidifavour@gmail.com</a></li>
+        <li>👨‍💻 All my projects: <a href="https://github.com/101PANDA">github.com/101PANDA</a></li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="45%">
+      <img alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/101panda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://twitter.com/1favourogidi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/favourogidi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21448599/ogidi-favour" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
 <a href="https://web.facebook.com/ofavour.panda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code_p_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My most used languages (live from GitHub):</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=101panda&layout=compact&langs_count=8&exclude_repo=repo1,repo2&hide=html,css" alt="Top languages" />
+### 🧰 Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,bash,js,ts,html,css,react,nextjs,wordpress,git,github,figma,vscode,linux,mysql&perline=8" alt="Tech stack" />
 </p>
 
-<h3 align="left">GitHub stats:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=101panda&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=101panda" alt="GitHub streak" />
+<sub>Currently learning:</sub><br>
+<img src="https://skillicons.dev/icons?i=flutter,django" alt="Learning" />
+
+### 💼 Experience highlights
+
+- **Frontend Developer Intern**, Tobams Group (2026 – present): Figma-to-web conversion, plus leading and joining product feature workshops.
+- **Graduate Trainee**, Pedulek Energy Group (2025 – present): led the redevelopment of the company website, improving structure, performance and maintainability.
+- **Web Developer & CMS Specialist**, Freelance (2023 – 2025): responsive WordPress and Next.js sites, custom themes and plugins, SEO and mobile improvements.
+- **Programming Instructor (Python)**, Genius and Gurus Secondary School (2024 – 2025): designed a project-based curriculum taking students from zero to project-ready.
+- **AI & Research Projects** (2024 – 2025): deep learning research on depression prediction in women using text and tabular data, written up with IEEE and APA referencing.
+
+### 📊 Languages I actually use
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img alt="Repos per language" src="./profile-summary-card-output/default/1-repos-per-language.svg" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Most committed language" src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" />
+  </picture>
 </p>
 
-<!-- OPTIONAL: time-based languages. Needs a public WakaTime profile + the WakaTime editor plugin.
-<p>
+### 📈 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="GitHub stats" src="./profile-summary-card-output/default/3-stats.svg" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img alt="Productive time" src="./profile-summary-card-output/default/4-productive-time.svg" width="48%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=101panda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact" alt="WakaTime" />
 </p>
--->
