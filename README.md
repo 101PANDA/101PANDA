@@ -36,7 +36,7 @@
 
 ### 💼 Experience highlights
 
-- **Frontend Developer Intern**, Tobams Group (2026 – present): Figma-to-web conversion, plus leading and joining product feature workshops.
+- **Frontend Developer**, Tobams Group (2026 – present): Figma-to-web conversion, plus leading and joining product feature workshops.
 - **Graduate Trainee**, Pedulek Energy Group (2025 – present): led the redevelopment of the company website, improving structure, performance and maintainability.
 - **Web Developer & CMS Specialist**, Freelance (2023 – 2025): responsive WordPress and Next.js sites, custom themes and plugins, SEO and mobile improvements.
 - **Programming Instructor (Python)**, Genius and Gurus Secondary School (2024 – 2025): designed a project-based curriculum taking students from zero to project-ready.
